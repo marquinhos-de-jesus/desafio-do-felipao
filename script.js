@@ -5,7 +5,7 @@ let xpHeroi = [3950, 5030, 6000, 7500, 9999, 1000000];
 
 // Laço de repetição
 
-for (let i = 0; i < nomeHeroi.length; index++) {
+for (let i = 0; i < nomeHeroi.length; i++) {
 
     //Variavéis
     let nome = nomeHeroi[i];
